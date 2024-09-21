@@ -2,6 +2,7 @@
 <h3 align="center">I am a highly motivated android developer who is always interested in learning new technologies. I love to see the outcomes of the projects I have contributed in.</h3>
 
 - 📫 How to reach me **sberk99@hotmail.com**
+- 👇 View my recent projects below in pinned section
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
