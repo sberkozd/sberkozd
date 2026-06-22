@@ -1,13 +1,36 @@
-<h1 align="center">Hi 👋, I'm Samet Berk Özdemir</h1>
-<h3 align="center">I am a highly motivated android developer who is always interested in learning new technologies. I love to see the outcomes of the projects I have contributed in.</h3>
+<div align="center">
 
-- 📫 How to reach me **sberk99@hotmail.com**
-- 👇 View my recent projects below in pinned section
+🟢 Toronto, Ontario
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sberkozd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sberkozd" height="30" width="40" /></a>
-</p>
+# Samet Berk Özdemir
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+**Android & Kotlin Multiplatform Engineer**
+
+[![Portfolio](https://img.shields.io/badge/sberkozd.me-00C853?style=flat-square&logo=google-chrome&logoColor=white)](https://sberkozd.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sberkozd-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sberkozd)
+[![Email](https://img.shields.io/badge/sberkozd%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sberkozd@gmail.com)
+
+</div>
+
+---
+
+I build solid, user-focused mobile apps. I've shipped products across banking, telecom, fitness, and e-commerce, mostly with modern Android, Kotlin, Coroutines, and Jetpack Compose. Lately I'm all-in on **Kotlin Multiplatform**, shipping Android and iOS from a single shared codebase.
+
+<div align="center">
+
+| 3+ yrs | 56M+ | 1+ yrs |
+|:---:|:---:|:---:|
+| Building mobile apps | Combined downloads | Working with KMP |
+
+</div>
+
+---
+
+**Tech Stack**
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![KMP](https://img.shields.io/badge/KMP-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
